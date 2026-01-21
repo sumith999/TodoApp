@@ -1,4 +1,4 @@
-# CodSoft Android Development Internship - Task 1: To-Do List App
+#  To-Do List App
 
 This project is a functional To-Do List application for Android, created as part of the CodSoft internship program. It allows users to manage their daily tasks efficiently.
 
