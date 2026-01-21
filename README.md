@@ -1,6 +1,6 @@
 #  To-Do List App
 
-This project is a functional To-Do List application for Android, created as part of the CodSoft internship program. It allows users to manage their daily tasks efficiently.
+This project is a functional To-Do List application for Android.It allows users to manage their daily tasks efficiently.
 
 ## 🌟 Features
 
@@ -37,7 +37,7 @@ git clone https://github.com/sumith999/Codsoft.git
 
 1.  Launch Android Studio.
 2.  Select **File > Open** (or click **Open** on the welcome screen).
-3.  Navigate to the cloned `Codsoft` directory and select it.
+3.  Navigate to the cloned `TodoApp` directory and select it.
 4.  Android Studio will recognize the project and start syncing it with Gradle, which downloads all the necessary dependencies.
 
 ### 4. Run the App
@@ -55,4 +55,4 @@ Android Studio will now build, install, and launch the To-Do List app on your se
 *   **To Complete a task**: Tap the **checkbox** next to the task'''s title.
 
 ---
-This project was created to fulfill the requirements of Task 1. The repository also contains other tasks from the internship.
+
